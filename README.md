@@ -21,6 +21,7 @@ With winter fast approaching, the team couldn’t afford to stay behind, instead
 After Glass regained consciousness, he had to tend to a broken leg, cuts that went down to the bone, and rotting flesh, the latter of which he treated by rolling in maggots, allowing them to eat the dead tissue. Then, he set about finding the men who left him behind.
 He crawled, rafted, and walked through hundreds of miles of dangerous terrain, actually receiving some help from Native Americans along the way. And when he finally found the men who abandoned him, he forgave them and spared their lives, before promptly signing up for several more dangerous expeditions.</p>
         <p><a href="https://en.wikipedia.org/wiki/Hugh_Glass">Click Here</a> to learn more</p>
+        <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a>
 
     </body>
 </html>
