@@ -21,6 +21,13 @@ With winter fast approaching, the team couldn’t afford to stay behind, instead
 After Glass regained consciousness, he had to tend to a broken leg, cuts that went down to the bone, and rotting flesh, the latter of which he treated by rolling in maggots, allowing them to eat the dead tissue. Then, he set about finding the men who left him behind.
 He crawled, rafted, and walked through hundreds of miles of dangerous terrain, actually receiving some help from Native Americans along the way. And when he finally found the men who abandoned him, he forgave them and spared their lives, before promptly signing up for several more dangerous expeditions.</p>
         <p><a href="https://en.wikipedia.org/wiki/Hugh_Glass">Click Here</a> to learn more</p>
+        <h1>Exploration</h1>
+        <h2>A few random explorations...</h2>
+        <h2>Phoenician Galley Sailings</h2>
+        <p>The Phoenicians (1550 BCE–300 BCE) traded throughout the Mediterranean Sea and Asia Minor though many of their routes are still unknown today. The presence of tin in some Phoenician artifacts suggests that they may have traveled to Britain. According to Virgil's Aeneid and other ancient sources, the legendary Queen Dido was a Phoenician from Tyre who sailed to North Africa and founded the city of Carthage.</p>
+        <h2>Carthaginean Exploration of Western Africa</h2>
+        <p>Hanno the Navigator (500 BC), a Carthaginean navigator who explored the Western Coast of Africa.</p>
+        <p><a href="https://en.wikipedia.org/wiki/Exploration">Click Here </a>for more explorations</p>
         <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a>
 
     </body>
