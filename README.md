@@ -32,7 +32,9 @@ He crawled, rafted, and walked through hundreds of miles of dangerous terrain, a
         <p>Hanno the Navigator (500 BC), a Carthaginean navigator who explored the Western Coast of Africa.</p>
         <p><a href="https://en.wikipedia.org/wiki/Exploration">Click Here </a>for more explorations</p>
          <p><a href="https://forms.gle/YNeFti93AXeYJfCaA">Click Here</a> for a quiz that goes along with this encyclopedia!</p>
-        <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a>
+        <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a> 
+        <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
+
 
     </body>
 </html>
